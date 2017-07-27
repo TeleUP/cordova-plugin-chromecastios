@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghenry22/cordova-plugin-chromecastios"
+    "url": "git+https://github.com/TeleUP/cordova-plugin-chromecastios.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -28,7 +28,7 @@
   "author": "Gaven Henry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghenry22/cordova-plugin-chromecastios/issues"
+    "url": "https://github.com/TeleUP/cordova-plugin-chromecastios.git/issues"
   },
-  "homepage": "https://github.com/ghenry22/cordova-plugin-chromecastios#readme"
+  "homepage": "https://github.com/TeleUP/cordova-plugin-chromecastios.git#readme"
 }
