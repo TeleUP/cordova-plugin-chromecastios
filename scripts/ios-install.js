@@ -20,7 +20,7 @@ if (!isMac) {
 	};
 
 	var paths = {
-		"GoogleCastSDK_URL": "https://developers.google.com/cast/downloads/GoogleCastSDK-Public-3.1.1-Release-ios.zip",
+		"GoogleCastSDK_URL": "./framework/GoogleCastSDK-Public-3.1.1-Release-ios.zip",
 		"GoogleCast_Framework": "./tmp/GoogleCastSDK-Public-3.1.1-Release/GoogleCast.framework"
 	};
 
