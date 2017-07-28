@@ -7,7 +7,7 @@ var exec = require('child_process').exec,
 	isMac = /^darwin/.test(process.platform),
 	Q = require('q'),
 	csdkDirectory;
-
+console.log('csdkDirectory', csdkDirectory)
 if (!isMac) {
 	console.log('iOS development is only supported on Mac OS X system, cowardly refusing to install the plugin');
 } else {
